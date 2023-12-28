@@ -5,3 +5,6 @@ traefik/users.txt
 filebrowser/filebrowser.db
 srv/*
 htpasswd
+*.crt
+*.key
+portainer/acme.json
