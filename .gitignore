@@ -8,3 +8,4 @@ htpasswd
 *.crt
 *.key
 portainer/acme.json
+portainer/data/
